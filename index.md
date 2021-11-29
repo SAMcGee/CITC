@@ -10,7 +10,7 @@ layout: default
 
 --- 
 
-**Scenario**: You've just luanched your first [phishing](phishing) attack against a local school. You've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!***. You figured they all must want to see the solutions for the upcoming mathematics exam (which you don't have, but they don't know that!). So you've constructed an email that looks like this:
+**Scenario**: You've just launched your first [phishing](phishing) attack against a local school. You've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!*** You figured they all must want to see the solutions for the upcoming mathematics exam (which you don't have, but they don't know that!). So you've constructed an email that looks like this:
 
 
 
