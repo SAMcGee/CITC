@@ -11,11 +11,14 @@ layout: default
 --- 
 
 **Scenario**: You've just launched your first [phishing](phishing) attack against a local school. You've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!*** You figured they all must want to see the solutions for the upcoming mathematics exam (which you don't have, but they don't know that!). So you've constructed an email that looks like this:
-
-
->  **Date**: 13/09/2021 \ 
->  **To**: all-students@auchenmory-high.co.uk \ 
->  **From**: free-exam-answers@gmail.com \ 
+    
+        
+            
+                
+                
+>  **Date**: 13/09/2021  
+>  **To**: all-students@auchenmory-high.co.uk  
+>  **From**: free-exam-answers@gmail.com   
 >
 >  Hey guys,
 >
