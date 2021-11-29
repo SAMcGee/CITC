@@ -13,14 +13,14 @@ layout: default
 **Scenario**: You've just launched your first [phishing](phishing) attack against a local school. You've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!*** You figured they all must want to see the solutions for the upcoming mathematics exam (which you don't have, but they don't know that!). So you've constructed an email that looks like this:
 
 
-
->  **To**: all-students@auchenmory-high.co.uk
->  **From**: free-exam-answers@gmail.com
+>  **Date**: 13/09/2021 \ 
+>  **To**: all-students@auchenmory-high.co.uk \ 
+>  **From**: free-exam-answers@gmail.com \ 
 >
 >  Hey guys,
 >
 >  Make sure you don't share this around but I found this site, if you put your phone number in you can totally 
->  see the exam answers for the maths exam next week haha! Just follow this link [https://sqa.com/secret/exam-sols.pdf](oops)
+>  see the exam answers for the mats exam next week haha! Just follow this link [https://sqa.com/secret/exam-sols.pdf](oops)
 
 
 In your groups discuss the following solutions to this problem and try to think of your own: \
