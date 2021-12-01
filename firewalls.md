@@ -17,7 +17,7 @@ permalink: /firewalls/
 In our scenario we could potentially stop students from revealing information to the hacker by making a rule on the firewall to block outgoing connections to the malicious website!    
    
     
-[Go Back](../index)
+[Go Back](../../CITC/)
 
 ---   
 

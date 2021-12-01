@@ -20,6 +20,6 @@ Go to [https://en.wikipedia.org/wiki/Anti-spam_techniques#Automated_techniques_f
 ### Task 2
 Find a partner, tell them what you found out! 
 
-[Go Back](../index)
+[Go Back](../../CITC/)
 
 

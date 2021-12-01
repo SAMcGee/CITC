@@ -39,7 +39,7 @@ function change3()
 </script>
    
     
-[Go Back](../index)
+[Go Back](../../CITC/)
 
 ---   
 
