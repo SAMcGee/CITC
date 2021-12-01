@@ -18,7 +18,9 @@ Email spam filters are programs which try to stop illegitimate emails from reach
 Go to [https://en.wikipedia.org/wiki/Anti-spam_techniques#Automated_techniques_for_email_administrators](https://en.wikipedia.org/wiki/Anti-spam_techniques#Automated_techniques_for_email_administrators) and pick a technique  under **"2. Automated techniques for email administrators"**. Think of something the technique does well, think of a potential issue you could see with it.
 
 ### Task 2
-Find a partner, tell them what you found out! 
+Find a partner, tell them how you think you could use this technique to stop the hacker!
+
+---
 
 [Go Back](../../CITC/)
 

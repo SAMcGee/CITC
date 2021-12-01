@@ -6,17 +6,13 @@ layout: default
 title: index
 ---
 
-## For this task, you're going to pretend to be a hacker! 
+## Defend your school from hacker attacks!
 ### You'll see what hackers see, and learn how to beat them!
 
 --- 
 
-**Scenario**: You've just launched your first [phishing](phishing) attack against a local school. You've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!*** You figured they all must want to see the solutions for the upcoming mathematics exam (which you don't have, but they don't know that!). So you've constructed an email that looks like this:
+**Scenario**: A hacker has just launched their first [phishing](phishing) attack against a your school! They've acquired the email addresses of all of the students in a school - ***though you forgot to exclude the computer science students!*** They figured all the students must want to see the solutions for the upcoming mathematics exam (which the hacker don't have, but students don't know that!). So they've sent an email like this:
     
-        
-            
-                
-                
 >  **Date**: 13/09/2021  
 >  **To**: all-students@auchenmory-high.co.uk  
 >  **From**: free-exam-answers@gmail.com   
@@ -28,7 +24,7 @@ title: index
 
 
 ### Task 1
-In your groups discuss the following solutions to this problem and try to think of your own: 
+You remember talking about some of these things in class last year, we're going to do research on the following topics before acting, click on them below: 
 
 1. [Firewall](firewalls)
 2. [Email Spam Filters](emailfilters)
@@ -36,8 +32,8 @@ In your groups discuss the following solutions to this problem and try to think 
 
        
 ### Task 2
-Discuss what solution you think is best
+Do you think it's possible for the school to stop your attack suceeding using the methods above? If not can you think of a way in which they could?
 
 ### What stage are you at?
-We've [decided on our answer](stage-2), we [need a bit of help](stage-1-help)
+We've [decided on our answer](stage-2-check), we [need a bit of help](stage-1-help)
 
