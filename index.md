@@ -20,8 +20,8 @@ title: index
 >  Hey guys,
 >
 >  Make sure you don't share this around but I found this site, if you put your phone number in you can totally 
->  see the exam answers for the mats exam next week haha! Just follow this link [https://sqa.com/secret/exam-sols.pdf](oops)
-
+>  see the exam answers for the mats exam next week haha! Just follow this link [https://sqa.com/secret/exam-sols.pdf](oops).
+> THIS LINK EXPIRES IN 10 MINUTES
 
 ### Task 1
 You remember talking about some of these things in class last year, we're going to do research on the following topics before acting, click on them below: 
