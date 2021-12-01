@@ -25,7 +25,7 @@ Attackers often use urgency as a way to encourage users to do something they wou
 
 1. Take a a breath, relax, and think about the situation
 2. Insist on gathering as much data as you can
-3. Think about side effects
+3. Think about the possible consequences of your actions
 
 [Continue!](../../CITC/stage-2)
 
