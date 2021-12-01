@@ -18,6 +18,15 @@ You discovered that each of these methods can't stop phishing alone.
 3. Teaching people about phishing is obviously not perfect, we all make mistakes. But by learning about how hackers attack networks and by remembering to take your time and consider all the information you have avaliable, it makes it much less likely for you to fall for a phishing email.
 
 Feel free to either continue to the next stage, or go back and revise some of the topics we discussed.
+
+### Beware of urgency!
+
+Attackers often use urgency as a way to encourage users to do something they would not otherwise do. Our attacker said we only had 10 minutes to click the link. Creating a sense of urgency is often used in banking scams, when people are told to move their money to a 'secure account' as their existing account is being terminated. It's important to:
+
+1. Take a a breath, relax, and think about the situation
+2. Insist on gathering as much data as you can
+3. Think about side effects
+
 [Continue!](../../CITC/stage-2)
 
 --- 

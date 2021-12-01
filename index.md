@@ -37,3 +37,6 @@ Do you think it's possible for the school to stop your attack suceeding using th
 ### What stage are you at?
 We've [decided on our answer](stage-2-check), we [need a bit of help](stage-1-help)
 
+---
+
+###### This lesson has been inspired by [Gapminder.org](https://www.gapminder.org/)
