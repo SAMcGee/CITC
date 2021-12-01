@@ -15,6 +15,8 @@ You managed to learn through your phishing emails that a lot of students add sma
 
 Using this information, adapt the program the hacker used to take a list of suffixes (123, 2000, 2021, etc) as well. The program should be able to check all the passwords it checked before for every student, but it should now also try all these passwords with every suffix in your list!
 
+You can work on your own, or in pairs. If you're working in pairs, try to take advantage of ***pair programming!***
+
 Here's the original hacker code to remind you:
 
 ```python
