@@ -17,7 +17,6 @@ You gave your teacher what for! They've installed a new firewall across the scho
 ### You've managed to intercept a piece of code the hacker was trying to run on all the computers in the school
 
 ```python
-import popuplib
 import computer_login_system
 def gain_access(student_list, words_to_try):
     victims = []
@@ -43,8 +42,6 @@ Research dictionary attacks, figure out what they are and how you can defend aga
 Just as you figured out the last piece, the hacker is trying to run a slightly modified version, what does this version do differently?
 
 ```python
-
-import popuplib
 import computer_login_system
 def gain_access(student_list, words_to_try):
     victims = {}
