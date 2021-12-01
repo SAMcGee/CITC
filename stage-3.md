@@ -5,48 +5,30 @@
 layout: default
 ---
 
-## You've figured out how to stop the hacker's even more complicated attack!
-### We've got to make sure this doesn't happen again
+## Now you get to think like a hacker
+
+You managed to learn through your phishing emails that a lot of students add small strings after their passwords. e.g. password123, paddy2000, scotland2021.
 
 --- 
 
+# FINAL TASK
 
-***Background***:
-    How many cyberattacks do you think start with someone clicking on an phishing email? Click on a button to have a guess
+Using this information, adapt the program the hacker used to take a list of suffixes (123, 2000, 2021, etc) as well. The program should be able to check all the passwords it checked before for every student, but it should now also try all these passwords with every suffix in your list!
 
-| 31% | 61% | 91% | 
-| ----------- | ----------- | ----------- |
-| <input onclick="change1()" type="button" value="Guess" id="myButton1"> | <input onclick="change2()" type="button" value="Guess" id="myButton2"> | <input onclick="change3()" type="button" value="Guess" id="myButton3"> |
+Here's the original hacker code to remind you:
 
-<script>
-function change1()
-{
-    var elem = document.getElementById("myButton1");
-    if (elem.value=="Guess") elem.value = "Nope!";
-    else elem.value = "Nope!";
-}
-function change2()
-{
-    var elem = document.getElementById("myButton2");
-    if (elem.value=="Guess") elem.value = "Nope!";
-    else elem.value = "Nope!";
-}
-function change3()
-    var elem = document.getElementById("myButton3");
-    if (elem.value=="Guess") elem.value = "That's right! 91%";
-    else elem.value = "That's right! 91%";
-}
-</script>
-   
+```python
+import computer_login_system
+def gain_access(student_list, words_to_try):
+    victims = []
+    for student in student_list:    
+        for word in words_to_try:
+            if (computer_login_system.attempt_login(student, word) is True):
+                victims.add(student)
+     return victims
     
-[Go Back](../../CITC/)
-
+```
+    
 ---   
 
-
-###  Extension Activity
-
-
-Find out the difference between a ***blacklist*** and a ***whitelist*** and discuss which would be more appropiate to stop the attacker.
-
-
+[Go Back](../../CITC/)

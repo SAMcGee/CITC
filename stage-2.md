@@ -51,6 +51,10 @@ def gain_access(student_list, words_to_try):
                 victims[student] = word
      return victims
 ```
+--- 
+
+### What stage are you at?
+We've [decided on our answer](../../CITC/stage-3-check), we [need a bit of help](../../CITC/stage-2-help)
 
 ---
 

@@ -17,7 +17,20 @@ You discovered that each of these methods can't stop phishing alone.
 
 3. Teaching people about phishing is obviously not perfect, we all make mistakes. But by learning about how hackers attack networks and by remembering to take your time and consider all the information you have avaliable, it makes it much less likely for you to fall for a phishing email.
 
-Feel free to either continue to the next stage, or go back and revise some of the topics we discussed.
+***Quick Quiz***:
+    How many cyberattacks do you think start with someone clicking on an phishing email? Click on a button to have a guess
+
+| 31% | 61% | 91% | 
+| ----------- | ----------- | ----------- |
+| <input onclick="change()" type="button" value="Guess" id="myButton1"> | <input onclick="change()" type="button" value="Guess" id="myButton2"> | <input onclick="change()" type="button" value="Guess" id="myButton3"> |
+
+<p id="answer"></p>
+
+<script>
+function change() {
+  document.getElementById("answer").innerText = "91% of cyber attackers start with someone clicking on phishing email";
+}
+</script>
 
 ### Beware of urgency!
 
@@ -26,6 +39,8 @@ Attackers often use urgency as a way to encourage users to do something they wou
 1. Take a a breath, relax, and think about the situation
 2. Insist on gathering as much data as you can
 3. Think about the possible consequences of your actions
+
+Feel free to either continue to the next stage, or go back and revise some of the topics we discussed.
 
 [Continue!](../../CITC/stage-2)
 
