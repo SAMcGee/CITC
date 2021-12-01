@@ -11,11 +11,11 @@ permalink: /teachingusers/
 
 --- 
 
-### ERROR 404: Database retrieval error!
-### SCHOOL TEACHING DATABASE CORRUPTED
-### RETURNING 1 RESULT
-
-![Silly cat image](../cat.jpeg)
+> ERROR 404: Database retrieval error!   
+> SCHOOL TEACHING DATABASE CORRUPTED   
+> RETURNING 1 RESULT   
+>   
+> ![Silly cat image](../cat.jpeg)   
 
 ---
 
