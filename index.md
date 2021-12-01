@@ -4,7 +4,6 @@
 
 layout: default
 title: index
-permalink: /index/
 ---
 
 ## For this task, you're going to pretend to be a hacker! 
