@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: phishing
+permalink: /phishing/
 ---
 
 ## Did you just click a link on a website you don't trust! 
@@ -12,4 +14,4 @@ layout: default
 
 **Phishing**: Is a type of attack where the attacker tries to send a fake message to a human in order to get them to reveal sensitive information, like their password, back account details or even addresses / telephone numbers. 
 
-[Go Back](index)
+[Go Back](../index)

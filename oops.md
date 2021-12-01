@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: oops
+permalink: /oops/
 ---
 
 ## Oh no you fell for the trick!
@@ -10,4 +12,4 @@ layout: default
 
 --- 
 
-[Go Back](index)
+[Go Back](../index)
