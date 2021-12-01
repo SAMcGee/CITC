@@ -18,15 +18,12 @@ You gave your teacher what for! They've installed a new firewall across the scho
 
 ```python
 import popuplib
+import computer_login_system
 def gain_access(student_list, words_to_try):
     victims = []
     for student in student_list:    
         for word in words_to_try:
-            newPopup = popuplib.showpopup(
-                student,
-                "You've been inactive, please input your password or you'll be logged out"
-            )
-            if (newPopup.messageBox.value is not none):   
+            if (computer_login_system.attempt_login(student, word) is True):
                 victims.add(student)
      return victims
     
@@ -46,19 +43,16 @@ Research dictionary attacks, figure out what they are and how you can defend aga
 Just as you figured out the last piece, the hacker is trying to run a slightly modified version, what does this version do differently?
 
 ```python
+
 import popuplib
+import computer_login_system
 def gain_access(student_list, words_to_try):
     victims = {}
     for student in student_list:    
         for word in words_to_try:
-            newPopup = popuplib.showpopup(
-                student,
-                "You've been inactive, please input your password or you'll be logged out"
-            )
-            if (newPopup.messageBox.value is not none):   
-                victims[student] = newPopup.messageBox.value
+            if (computer_login_system.attempt_login(student, word) is True):
+                victims[student] = word
      return victims
-    
 ```
 
 ---
