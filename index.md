@@ -32,7 +32,7 @@ In your groups discuss the following solutions to this problem and try to think 
 
 1. [Firewall](firewalls)
 2. [Email Spam Filters](emailfilters)
-3. [Caution]()   
+3. [Teaching users about phishing](teachingusers)  
 
        
 ### Task 2
