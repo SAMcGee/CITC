@@ -10,7 +10,7 @@ permalink: /stage-2/
 # The hacker is back!!!
 ### And they're learned their lessons
 
-You gave your teacher what for! They've installed a new firewall across the school, they bought in a very expensive new email filtering system and the school has an assembly about phishing. The attacker knows that they're not likely to manage to get past you now! But you discover they're now trying to run things on your school computers!
+You gave your teacher what for! Your excellent consultancy work and research has lead to a new firewall across the school! The school even bought in a very expensive new email filtering system and has had an assembly about phishing. The attacker knows that they're not likely to manage to get past you now! But you discover they're now trying to run code remotely on your school computers! (Clearly that firewall isn't as impressive as you were lead to believe)
 
 --- 
 
@@ -23,7 +23,7 @@ def gain_access(student_list, words_to_try):
     for student in student_list:    
         for word in words_to_try:
             if (computer_login_system.attempt_login(student, word) is True):
-                victims.add(student)
+                victims.append(student)
      return victims
     
 ```
@@ -49,13 +49,43 @@ def gain_access(student_list, words_to_try):
         for word in words_to_try:
             if (computer_login_system.attempt_login(student, word) is True):
                 victims[student] = word
-     return victims
+    return victims
 ```
 --- 
+### Need some help?
 
-### What stage are you at?
-We've [decided on our answer](../../CITC/stage-3-check), we [need a bit of help](../../CITC/stage-2-help)
+#### Hint 1 - What does the code do?
+<button onclick="revealHintOne()">Reveal Hint 1</button>
+
+<p id="hint1"></p>
+
+<script>
+function revealHintOne() {
+  document.getElementById("hint1").innerText = "Try to think about what the following line of code does computer_login_system.attempt_login(student, word), and think about what would happen in these two lines of code if(true): print(\"true\") if(false: print(\"false\"))";
+}
+</script>
+
+
+#### Hint 2 - What are dictionary attacks 
+
+<button onclick="revealHintTwo()">Reveal Hint 2</button>
+
+<p id="hint2"></p>
+
+
+<script>
+function revealHintTwo() {
+  document.getElementById("hint2").innerText = "Have you ever reused a password? Or even worse, have you ever reused the same common password as someone else? How could an attacker take advantage of that?";
+}
+</script>
+
+Or skip to the [answers](../../CITC/answers)
 
 ---
 
-[Go Back](../../CITC/)
+### Continue
+I've [decided on my answer](../../CITC/stage-3-check)
+
+---
+
+[Go Back](../../CITC/stage-2-check)

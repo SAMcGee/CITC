@@ -21,11 +21,15 @@ The code you blocked from running went through every student in the school and t
 
 If you see your password on this list, it's in the top 60 passwords used worldwide. Go change it!
 
-### Beware of urgency!
+### Some questions for you to think about
 
-Although sometimes there are time pressures as we saw here, we had to stop the hacker from running his code. It is still important that we make sure we know what the outcomes of our actions could be. We can't stop every piece of code running on our machines, some may provide important updates or be essential for people's work. We took the time to consider the code we intercepted and reasoned about it before making a decision. 
+1. In this situation what action did you need to take immediately?
+2. What action could you delay, why might you want to delay taking action? 
+3. Is there any lesson you could take away from this exercise about how you should deal with time-critical problems in future?
 
-[Continue!](../../CITC/stage-3)
+---
+### Continue
+I've [thought about the questions](../../CITC/stage-3)
 
 --- 
 

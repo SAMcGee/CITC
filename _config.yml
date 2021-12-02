@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Urgency Instinct
+title: An Unexpected Consultancy
 email: s1840770@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Always remember to try and gather as much information as possible before making a decision. Analyse the possible outcomes
-  by considering what could happen for each action you plan to take. Is it worth it?
+  “Computer Science is no more about computers than astronomy is about telescopes” ― Edsger W. Dijkstra
 baseurl: "/CITC" # the subpath of your site, e.g. /blog
 url: "https://samcgee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  SAMcGee
 
 # Build settings

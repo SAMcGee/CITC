@@ -23,7 +23,7 @@ Well looks like somebody didn't do a very good job of securing our teaching data
 
 ### Task 1
 
-Think of different ways in which you could teach people about phishing - try to explain it like you would to your gran when she asks for help with her iPad. Investigate some ways in which companies teach their staff about phishing.
+Think of different ways in which you could teach people about phishing - try to explain it like you would to an elderly neighbour who isn't very good with technology. Investigate some ways in which companies teach their staff about phishing.
 
 --- 
 

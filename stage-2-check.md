@@ -9,7 +9,7 @@ permalink: /stage-2-check/
 
 ### The hacker's gone for now
 
-You discovered that each of these methods can't stop phishing alone. 
+Your research has lead to the following discoveries: 
 
 1. Firewalls are rule based, and although they could block this attack, all the hacker has to do is copy the website to a different domain and we've have to keep updating our rules! Though this method can certainly help, it costs the hacker money, time, and energy to set it all up again.
 
@@ -17,33 +17,38 @@ You discovered that each of these methods can't stop phishing alone.
 
 3. Teaching people about phishing is obviously not perfect, we all make mistakes. But by learning about how hackers attack networks and by remembering to take your time and consider all the information you have avaliable, it makes it much less likely for you to fall for a phishing email.
 
+You've decided that ultimately none of these methods can stop phishing alone, but together they might have a chance. So you've told your teacher and wrote a rather, colourful, letter to your local council!
+
 ***Quick Quiz***:
     How many cyberattacks do you think start with someone clicking on an phishing email? Click on a button to have a guess
 
 | 31% | 61% | 91% | 
 | ----------- | ----------- | ----------- |
-| <input onclick="change()" type="button" value="Guess" id="myButton1"> | <input onclick="change()" type="button" value="Guess" id="myButton2"> | <input onclick="change()" type="button" value="Guess" id="myButton3"> |
+| <input onclick="change(31)" type="button" value="Guess" id="myButton1"> | <input onclick="change(61)" type="button" value="Guess" id="myButton2"> | <input onclick="change(91)" type="button" value="Guess" id="myButton3"> |
 
 <p id="answer"></p>
 
 <script>
-function change() {
-  document.getElementById("answer").innerText = "91% of cyber attackers start with someone clicking on phishing email";
+function change(number) {
+  if (number != 91) {
+    document.getElementById("answer").innerText = String(number) + "\% is incorrect, try again!"
+  } else {
+    document.getElementById("answer").innerText = String(number) + "\% Correct! 91\% of cyber attacks start with a phishing email"
+  }
+  
 }
 </script>
 
-### Beware of urgency!
+### Some questions for you to think about
 
-Attackers often use urgency as a way to encourage users to do something they would not otherwise do. Our attacker said we only had 10 minutes to click the link. Creating a sense of urgency is often used in banking scams, when people are told to move their money to a 'secure account' as their existing account is being terminated. It's important to:
+1. What do a lot of phishing emails have in common, look at our example and think about what a phishing email might look like for banking scams or 'regaining access to an account'?
+2. What things made you suspicious by analysing the body of the email?
+3. Do you think there's any lessons about analysing information which you could use in other subjects which you've learned in this exercise? 
 
-1. Take a a breath, relax, and think about the situation
-2. Insist on gathering as much data as you can
-3. Think about the possible consequences of your actions
+---
+### Continue
+I've [thought about the questions](../../CITC/stage-2)
 
-Feel free to either continue to the next stage, or go back and revise some of the topics we discussed.
-
-[Continue!](../../CITC/stage-2)
-
---- 
+---
 
 [Go Back](../../CITC/)
