@@ -46,9 +46,9 @@ def gain_access(student_list, words_to_try):
 
 Write a small summary detailing what you've learned over this set of lessons, cover the following:
 
-What have you learned today about how hackers might entice you to do things? 
-Have you become more suspicious about links and information on the internet?
-What have you learned about making decisions in time-sensitive circumstances?
+1. What have you learned today about how hackers might entice you to do things?  
+2. Have you become more suspicious about links and information on the internet? 
+3. What have you learned about making decisions in time-sensitive circumstances? 
     
 ---   
 ## Congratulations!
