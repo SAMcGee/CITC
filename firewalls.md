@@ -25,7 +25,7 @@ Consider how a firewall could be used to prevent the hacker from getting sensiti
 ###  Extension Activity
 
 
-Find out the difference between a ***denylist / blacklist*** and an ***allowlist / whitelist*** and discuss which would be more appropiate to stop the attacker.
+Find out the difference between a ***denylist / blacklist*** and an ***allowlist / whitelist*** and discuss which would be more appropriate to stop the attacker.
 
 ---
 [Go Back](../../CITC/)

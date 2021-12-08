@@ -9,7 +9,7 @@ permalink: /stage-3-check/
 
 ### You figured out what the code done and stopped it from running!
 
-The code you blocked from running went through every student in the school and tried to log in to their account using a list of passwords which the attacker provided. This sort of attack is called a dictionary attack and can be very damaging because many people reuse passwords, and use rubbish passwords. 
+The code you blocked from running went through every student in the school and tried to log in to their account using a list of passwords that the attacker provided. This sort of attack is called a dictionary attack and can be very damaging because many people reuse passwords, and use rubbish passwords. 
 
 > 123456
 > qwerty

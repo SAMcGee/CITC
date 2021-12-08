@@ -12,7 +12,7 @@ permalink: /emailfilters/
 --- 
 
 ***Email Spam Filters***:
-Email spam filters are programs which try to stop illegitimate emails from reaching users by filtering them. All filtering techniques have a trade off, between rejecting legitimate emails and letting through illegitimate emails. There are many types of filtering techniques avaliable to email administrators. 
+Email spam filters are programs that try to stop illegitimate emails from reaching users by filtering them. All filtering techniques have a trade-off, between rejecting legitimate emails and letting through illegitimate emails. There are many types of filtering techniques available to email administrators.
    
 This is a video from a telephone company, so ignore the little bit at the end!
 

@@ -8,9 +8,9 @@ permalink: /stage-2/
 ---
 
 # The hacker is back!!!
-### And they're learned their lessons
+### And they've learned their lessons
 
-You gave your teacher what for! Your excellent consultancy work and research has lead to a new firewall across the school! The school even bought in a very expensive new email filtering system and has had an assembly about phishing. The attacker knows that they're not likely to manage to get past you now! But you discover they're now trying to run code remotely on your school computers! (Clearly that firewall isn't as impressive as you were lead to believe)
+You gave your teacher what for! Your excellent consultancy work and research have led to a new firewall across the school! The school even bought in a very expensive new email filtering system and has had an assembly about phishing. The attacker knows that they're not likely to manage to get past you now! But you discover they're now trying to run code remotely on your school computers! (Clearly, that firewall isn't as impressive as you were lead to believe)
 
 --- 
 

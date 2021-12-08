@@ -12,7 +12,8 @@ permalink: /phishing/
 
 --- 
 
-**Phishing**: Is a type of attack where the attacker tries to send a fake message to a human in order to get them to reveal sensitive information, like their password, back account details or even addresses / telephone numbers. 
+**Phishing**: Phishing: This is a type of attack where the attacker tries to send a fake message to a human to get them to reveal sensitive information, like their password, bank account details or even addresses/telephone numbers.
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7ieCcOATNEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

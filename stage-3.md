@@ -46,14 +46,15 @@ def gain_access(student_list, words_to_try):
 
 Write a small summary detailing what you've learned over this set of lessons, cover the following:
 
-What have you learned today about how hackers might entice you to do things?
-Have you become more supicious about links and information on the internet? 
+What have you learned today about how hackers might entice you to do things? 
+Have you become more suspicious about links and information on the internet?
 What have you learned about making decisions in time-sensitive circumstances?
     
 ---   
 ## Congratulations!
 
-If you've completed all of that you've successfully completed the lesson. I thoroughly hope you enjoyed yourself and would love to hear your feedback! Please send any feedback to s1840770@ed.ac.uk
+If you’ve completed all of that you’ve completed the lesson. I thoroughly hope you enjoyed yourself and would love to hear your feedback!
+
 
 --- 
 [Go Back](../../CITC/stage-2-check)
