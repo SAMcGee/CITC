@@ -9,7 +9,7 @@ permalink: /answers/
 
 ## Surely not, you fell for this again! 
 
-Well since you made it. Did you know this is actually how many leading companies go about teaching their employees about phishing?
+Well since you made it. Did you know this is actually how many leading companies teach their employees about phishing?
 
 Simulated Phishing is when companies send phishing emails to their employees! This allows the company to track things like:
 

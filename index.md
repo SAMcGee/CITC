@@ -11,7 +11,7 @@ title: index
 
 --- 
 
-**Scenario**: A hacker has just launched their first [phishing](phishing) attack against your school! They've acquired the email addresses of all of the students in a school. They figured all the students must want to see the solutions for the upcoming mathematics exam (which the hacker doesn't have, but students don't know that!). You've been hired as an extremely young - **but extremely well paid** - consultant and your first job is to analyse an email the hacker has sent: 
+**Scenario**: A hacker has just launched their first [phishing](phishing) attack against your school! They've acquired the email addresses of all of the students. They figured all the students must want to see the solutions for the upcoming mathematics exam (which the hacker doesn't have, but students don't know that!). You've been hired as an extremely young - **but extremely well paid** - consultant and your first job is to analyse an email the hacker has sent: 
     
 >  **Date**: 13/09/2021  
 >  **To**: all-students@auchenmory-high.co.uk  
@@ -21,7 +21,7 @@ title: index
 >
 >  Make sure you don't share this around but I found this site, if you put your phone number in you can totally 
 >  see the exam answers for the mats exam next week haha! Just follow this link [https://sqa.com/secret/exam-sols.pdf](oops).
-> THIS LINK EXPIRES IN 10 MINUTES
+>  THIS LINK EXPIRES IN 10 MINUTES
 
 ### Task 1
 You remember talking about some of these things in class last year, and you've been asked to do research on the following topics before acting, click on them below: 
