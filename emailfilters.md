@@ -7,7 +7,7 @@ title: emailfilters
 permalink: /emailfilters/
 ---
 
-### Email Spam Filters as a solution to simplistic phising emails
+### Email Spam Filters as a solution to simplistic phishing emails
 
 --- 
 
